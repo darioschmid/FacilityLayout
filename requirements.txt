@@ -1,0 +1,7 @@
+gurobipy
+numpy
+Pillow
+pandas
+scipy
+configparser
+openpyxl
